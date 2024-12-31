@@ -14,6 +14,8 @@ I am a dedicated Full-Stack Developer with experience in developing robust appli
 
 ## 🔧 Skills  
 
+Technical Skills:
+Python C C++ JavaScript Django React Pandas Express.js Git MySQL MongoDB Linux
 ### Programming Languages  
 - C, C++, Java (Core & Web Development), Python  
 - JavaScript, PHP  
