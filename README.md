@@ -18,10 +18,6 @@ I am a dedicated Full-Stack Developer with experience in developing robust appli
 
 ---
 
-Here’s the revised **Skills** section with a more comprehensive and updated list of tools and technologies, along with badge-style icons:
-
----
-
 ## 🔧 Skills  
 
 ### **Programming Languages**  
