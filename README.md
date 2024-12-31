@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Suraj Kumar Kushwaha  
 
+![Profile Views](https://komarev.com/ghpvc/?username=kushwaha-suraj&color=blue)
+
+
 🌟 Full-Stack Developer | Software Engineer | Passionate about building efficient and impactful solutions
 
 ---
