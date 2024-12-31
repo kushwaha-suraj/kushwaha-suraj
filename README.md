@@ -1,7 +1,3 @@
-Here’s a README template for your GitHub profile that aligns with your CV and showcases your skills, projects, and experiences:
-
----
-
 # 👋 Hi, I'm Suraj Kumar Kushwaha  
 
 🌟 Full-Stack Developer | Software Engineer | Passionate about building efficient and impactful solutions
