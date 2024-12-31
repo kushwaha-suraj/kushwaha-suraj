@@ -12,23 +12,41 @@ I am a dedicated Full-Stack Developer with experience in developing robust appli
 
 ---
 
+Here’s the revised **Skills** section with a more comprehensive and updated list of tools and technologies, along with badge-style icons:
+
+---
+
 ## 🔧 Skills  
 
-Technical Skills:
-Python C C++ JavaScript Django React Pandas Express.js Git MySQL MongoDB Linux
-### Programming Languages  
-- C, C++, Java (Core & Web Development), Python  
-- JavaScript, PHP  
+### **Programming Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-### Frameworks & Libraries  
-- React, Bootstrap, Express, MERN Stack  
-- Django Rest Framework  
+### **Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MERN Stack](https://img.shields.io/badge/MERN-333333?style=flat&logo=mongodb&logoColor=green)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
 
-### Databases  
-- MySQL, PostgreSQL, MongoDB  
+### **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-### Tools & Technologies  
-- GitHub, AWS, Docker, CorelDraw  
+### **Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![CorelDraw](https://img.shields.io/badge/CorelDraw-0078D4?style=flat&logo=coreldraw&logoColor=white)  
 
 ---
 
