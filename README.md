@@ -6,6 +6,19 @@
 🌟 Full-Stack Developer | Software Engineer | Passionate about building efficient and impactful solutions
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravish0409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravish0409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+---
 
 ## 🚀 About Me  
 I am a dedicated Full-Stack Developer with experience in developing robust applications and managing APIs. I have a passion for solving complex problems and building projects that improve user experiences and functionality. My technical expertise spans a variety of frameworks, languages, and tools.
@@ -97,11 +110,20 @@ Jagannath International Management School, Delhi
 - Completed **NPTEL MOOC Course in Ethical Hacking**.  
 
 ---
-
-## 🌐 Connect With Me  
-- **GitHub:** [kushwaha-suraj](https://github.com/kushwaha-suraj)  
-- **LinkedIn:** [kushwahasooraj](https://www.linkedin.com/in/kushwahasooraj/)  
+### <div> Connect with me: </div>
+<div align="left">
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kushwahasooraj/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:Sk111kushwaha@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/kushwaha-suraj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+</div>
 
 ---
-
-Feel free to customize this further with additional details or personal touches!
